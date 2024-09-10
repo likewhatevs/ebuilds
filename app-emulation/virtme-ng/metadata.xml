@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>admin@likewhatevs.io</email>
+    <name>nah</name>
+  </maintainer>
+  <longdescription lang="en">
+    lightweight and fast "deal with vms and builds for me for testing kernel stuff" tool. super good.
+  </longdescription>
+  <upstream>
+    <remote-id type="github">arighi/virtme-ng</remote-id>
+    <bugs-to>https://github.com/arighi/virtme-ng/issues</bugs-to>
+  </upstream>
+</pkgmetadata>
